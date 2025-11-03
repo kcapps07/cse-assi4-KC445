@@ -1,127 +1,127 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Hotels xmlns="http://www.example.org/Hotels"
- xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
- xsi:schemaLocation="http://www.example.org/Hotels https://raw.githubusercontent.com/kcapps07/cse-assi4-KC445/main/Hotels.xsd">
-	<Hotel Rating="4.2">
-		<Name>Westin</Name>
-		<Phone>480-968-8885</Phone>
-		<Phone>800-937-8461</Phone>
-		<Address NearestAirport="Sky Harbor">
-			<Number>11</Number>
-			<Street>E 7th St</Street>
-			<City>Tempe</City>
-			<State>AZ</State>
-			<Zip>85281</Zip>
-		</Address>
-	</Hotel>
+<Hotels xmlns="http://venus.sod.asu.edu/WSRepository/xml"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://venus.sod.asu.edu/WSRepository/xml https://raw.githubusercontent.com/kcapps07/cse-assi4-KC445/main/Hotels.xsd">
 
-	<Hotel Rating="4.5">
-		<Name>Embassy Suites</Name>
-		<Phone>480-123-4567</Phone>
-		<Address NearestAirport="Mesa Gateway">
-			<Number>200</Number>
-			<Street>S Rural Rd</Street>
-			<City>Tempe</City>
-			<State>AZ</State>
-			<Zip>85282</Zip>
-		</Address>
-	</Hotel>
-	
-	<Hotel Rating="4.2">
-		<Name>Drury Plaza</Name>
-		<Phone>480-940-3700</Phone>
-		<Address>
-			<Number>1780</Number>
-			<Street>W Ranch Rd</Street>
-			<City>Tempe</City>
-			<State>AZ</State>
-			<Zip>85284</Zip>
-		</Address>
-	</Hotel>
+  <Hotel Rating="4.2">
+    <Name>Westin</Name>
+    <Phone>480-968-8885</Phone>
+    <Phone>800-937 8461</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>11</Number>
+      <Street>E 7th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
 
-	<Hotel Rating="3.2">
-		<Name>random</Name>
-		<Phone>440-940-3700</Phone>
-		<Address>
-			<Number>900</Number>
-			<Street>Ranch Dressing Rd</Street>
-			<City>Tempe</City>
-			<State>AZ</State>
-			<Zip>85284</Zip>
-		</Address>
-	</Hotel>
+  <Hotel Rating="4.5">
+    <Name>Embassy Suites</Name>
+    <Phone>480-123-4567</Phone>
+    <Address NearestAirport="Mesa Gateway">
+      <Number>200</Number>
+      <Street>S Rural Rd</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85282</Zip>
+    </Address>
+  </Hotel>
 
-	<Hotel Rating="2.2">
-		<Name>Gwuamhnmun</Name>
-		<Phone>530-940-3700</Phone>
-		<Address>
-			<Number>990</Number>
-			<Street>Ranch Dressing St</Street>
-			<City>Tempe</City>
-			<State>AZ</State>
-			<Zip>85284</Zip>
-		</Address>
-	</Hotel>
+  <Hotel Rating="4.2">
+    <Name>Drury Plaza</Name>
+    <Phone>480-940-3700</Phone>
+    <Address>
+      <Number>1780</Number>
+      <Street>W Ranch Rd</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85284</Zip>
+    </Address>
+  </Hotel>
 
-	<Hotel Rating="3.5">
-		<Name>Hotel six</Name>
-		<Phone>440-940-3730</Phone>
-		<Address>
-			<Number>999</Number>
-			<Street>Siz Rd</Street>
-			<City>Tempe</City>
-			<State>AZ</State>
-			<Zip>85244</Zip>
-		</Address>
-	</Hotel>
+  <Hotel Rating="3.2">
+    <Name>Random Inn</Name>
+    <Phone>440-940-3700</Phone>
+    <Address>
+      <Number>900</Number>
+      <Street>Ranch Dressing Rd</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85284</Zip>
+    </Address>
+  </Hotel>
 
-	<Hotel Rating="4.4">
-		<Name>Hotel seven</Name>
-		<Phone>422-940-3700</Phone>
-		<Address>
-			<Number>900</Number>
-			<Street>Ranch Dressing Rd</Street>
-			<City>Tempe</City>
-			<State>AZ</State>
-			<Zip>85334</Zip>
-		</Address>
-	</Hotel>
+  <Hotel Rating="2.2">
+    <Name>Gwuamhnmun</Name>
+    <Phone>530-940-3700</Phone>
+    <Address>
+      <Number>990</Number>
+      <Street>Ranch Dressing St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85284</Zip>
+    </Address>
+  </Hotel>
 
-	<Hotel Rating="5.0">
-		<Name>Hotel eight</Name>
-		<Phone>440-333-3700</Phone>
-		<Address>
-			<Number>980</Number>
-			<Street>Honey Mustard Rd</Street>
-			<City>Tempe</City>
-			<State>AZ</State>
-			<Zip>35284</Zip>
-		</Address>
-	</Hotel>
+  <Hotel Rating="3.5">
+    <Name>Hotel Six</Name>
+    <Phone>440-940-3730</Phone>
+    <Address>
+      <Number>999</Number>
+      <Street>Siz Rd</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85244</Zip>
+    </Address>
+  </Hotel>
 
-	<Hotel Rating="3.2">
-		<Name>Hotel nine</Name>
-		<Phone>992-940-3700</Phone>
-		<Address>
-			<Number>999</Number>
-			<Street>Thousand Island Ct</Street>
-			<City>Tempe</City>
-			<State>AZ</State>
-			<Zip>89984</Zip>
-		</Address>
-	</Hotel>
+  <Hotel Rating="4.4">
+    <Name>Hotel Seven</Name>
+    <Phone>422-940-3700</Phone>
+    <Address>
+      <Number>900</Number>
+      <Street>Ranch Dressing Rd</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85334</Zip>
+    </Address>
+  </Hotel>
 
-	<Hotel Rating="3.8">
-		<Name>Hotel ten</Name>
-		<Phone>222-323-3700</Phone>
-		<Address>
-			<Number>1020</Number>
-			<Street>Salsa St</Street>
-			<City>Tempe</City>
-			<State>AZ</State>
-			<Zip>85104</Zip>
-		</Address>
-	</Hotel>
-	
+  <Hotel Rating="5.0">
+    <Name>Hotel Eight</Name>
+    <Phone>440-333-3700</Phone>
+    <Address>
+      <Number>980</Number>
+      <Street>Honey Mustard Rd</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>35284</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="3.2">
+    <Name>Hotel Nine</Name>
+    <Phone>992-940-3700</Phone>
+    <Address>
+      <Number>999</Number>
+      <Street>Thousand Island Ct</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>89984</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="3.8">
+    <Name>Hotel Ten</Name>
+    <Phone>222-323-3700</Phone>
+    <Address>
+      <Number>1020</Number>
+      <Street>Salsa St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85104</Zip>
+    </Address>
+  </Hotel>
+
 </Hotels>
-
