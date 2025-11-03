@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xs:schema
- xmlns:xs="http://www.w3.org/2001/XMLSchema"
- targetNamespace="http://www.example.org/Hotels"
- xmlns="http://www.example.org/Hotels"
- elementFormDefault="qualified">
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+            xmlns="http://venus.sod.asu.edu/WSRepository/xml"
+            targetNamespace="http://venus.sod.asu.edu/WSRepository/xml"
+            elementFormDefault="qualified"
+            attributeFormDefault="unqualified">
+
 
 	<!-- Root element -->
 	<xs:element name="Hotels" type="HotelsType"/>
@@ -35,3 +36,4 @@
 	</xs:complexType>
 
 </xs:schema>
+
