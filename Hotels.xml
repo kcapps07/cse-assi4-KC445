@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Hotels xmlns="https://raw.githubusercontent.com/kcapps07/cse-assi4-KC445/main/Hotels.xsd"
+<Hotels xmlns="http://venus.sod.asu.edu/WSRepository/xml"
         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:schemaLocation="http://venus.sod.asu.edu/WSRepository/xml https://raw.githubusercontent.com/kcapps07/cse-assi4-KC445/main/Hotels.xsd">
 
@@ -125,4 +125,5 @@
   </Hotel>
 
 </Hotels>
+
 
